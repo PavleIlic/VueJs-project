@@ -5,8 +5,8 @@
 </template>
 
 <script>
-
 import UserProfile from "@/components/UserProfile";
+
 
 export default {
   name: 'App',
@@ -16,7 +16,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
